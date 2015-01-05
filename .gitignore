@@ -1,0 +1,5 @@
+.DS_Store
+.RHistory
+.ipynb_checkpoints
+.Rhistory
+*.pyc
